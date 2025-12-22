@@ -21,7 +21,6 @@ C:\Users\Home\Documents\pagegamer\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
 C:\Users\Home\Documents\pagegamer\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Home\Documents\pagegamer\obj\Debug\net10.0\scopedcss\bundle\pagegamer.styles.css
 C:\Users\Home\Documents\pagegamer\obj\Debug\net10.0\scopedcss\projectbundle\pagegamer.bundle.scp.css
-C:\Users\Home\Documents\pagegamer\obj\Debug\net10.0\compressed\7whzf5v9p4-{0}-b9sayid5wm-b9sayid5wm.gz
 C:\Users\Home\Documents\pagegamer\obj\Debug\net10.0\compressed\3sd9r2q9nb-{0}-61n19gt1b8-61n19gt1b8.gz
 C:\Users\Home\Documents\pagegamer\obj\Debug\net10.0\compressed\mqns811595-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\Users\Home\Documents\pagegamer\obj\Debug\net10.0\compressed\b5zksn3xg4-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -95,3 +94,5 @@ C:\Users\Home\Documents\pagegamer\obj\Debug\net10.0\refint\pagegamer.dll
 C:\Users\Home\Documents\pagegamer\obj\Debug\net10.0\pagegamer.pdb
 C:\Users\Home\Documents\pagegamer\obj\Debug\net10.0\pagegamer.genruntimeconfig.cache
 C:\Users\Home\Documents\pagegamer\obj\Debug\net10.0\ref\pagegamer.dll
+C:\Users\Home\Documents\pagegamer\obj\Debug\net10.0\pagegamer.sourcelink.json
+C:\Users\Home\Documents\pagegamer\obj\Debug\net10.0\compressed\7whzf5v9p4-{0}-vmxmj9b1zk-vmxmj9b1zk.gz

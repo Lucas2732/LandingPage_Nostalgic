@@ -95,4 +95,4 @@ C:\Users\Home\Documents\pagegamer\obj\Debug\net10.0\pagegamer.pdb
 C:\Users\Home\Documents\pagegamer\obj\Debug\net10.0\pagegamer.genruntimeconfig.cache
 C:\Users\Home\Documents\pagegamer\obj\Debug\net10.0\ref\pagegamer.dll
 C:\Users\Home\Documents\pagegamer\obj\Debug\net10.0\pagegamer.sourcelink.json
-C:\Users\Home\Documents\pagegamer\obj\Debug\net10.0\compressed\7whzf5v9p4-{0}-vmxmj9b1zk-vmxmj9b1zk.gz
+C:\Users\Home\Documents\pagegamer\obj\Debug\net10.0\compressed\7whzf5v9p4-{0}-8d1uo04t9f-8d1uo04t9f.gz

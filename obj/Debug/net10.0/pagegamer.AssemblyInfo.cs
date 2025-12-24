@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pagegamer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57f70cb82220cc6365fee5d978d4bb5348addade")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdbdc4e960cd765f84ea81fb286ed5871aa4d589")]
 [assembly: System.Reflection.AssemblyProductAttribute("pagegamer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pagegamer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
